@@ -1,0 +1,31 @@
+.foodcard{
+    height: 660px;
+    width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 5px groove goldenrod;
+}
+
+.image{
+    width: 440px ;
+    border-radius: 10px;
+    border: 3px solid  black;
+}
+
+.cards{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: start;
+    color: #656565;
+    width: 450px;
+    padding:  10px 5px;
+    background-color: #ffffff;
+}
+
+.btn{
+    border: 8px groove rgb(171, 171, 171);
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 90px;
+    text-align: center;
+    height: 45px;
+}
